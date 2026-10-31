@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+netCDF4
+rasterio
+gdal
+statsmodels
+scipy
+scikit-learn
+flaml[automl]
+xgboost
+shap
+matplotlib

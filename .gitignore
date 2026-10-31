@@ -1,0 +1,13 @@
+*.nc
+*.npz
+*.npy
+*.pkl
+*.zip
+*.hdf
+proc/
+out/
+raw/
+logs/
+__pycache__/
+*.pdf.paper
+s41561-*.pdf

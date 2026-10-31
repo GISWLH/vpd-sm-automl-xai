@@ -1,0 +1,24 @@
+{
+ "estimator": "xgboost",
+ "config": {
+  "n_estimators": 273,
+  "max_leaves": 16,
+  "min_child_weight": 0.00332686711575825,
+  "learning_rate": 0.06048623827453299,
+  "subsample": 0.9379446243374235,
+  "colsample_bylevel": 0.6819792026166391,
+  "colsample_bytree": 1.0,
+  "reg_alpha": 5.846344233173147,
+  "reg_lambda": 0.04718788910964417
+ },
+ "r2": 0.4335871849319435,
+ "n": 1761,
+ "vpd_mean": 6.4,
+ "sm_mean": 11.8,
+ "vpd_mean_change": 8.2,
+ "sm_mean_change": 10.5,
+ "vpd_nor_cv": 8.6,
+ "sm_nor_cv": 6.5,
+ "vpd_nor_cv_change": 19.1,
+ "sm_nor_cv_change": 29.0
+}

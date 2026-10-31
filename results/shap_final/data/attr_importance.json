@@ -1,0 +1,20 @@
+{
+ "estimator": "xgboost",
+ "config": {
+  "n_estimators": 40,
+  "max_leaves": 7,
+  "min_child_weight": 2.44214929215858,
+  "learning_rate": 0.49795132976194306,
+  "subsample": 1.0,
+  "colsample_bylevel": 0.5544445688172216,
+  "colsample_bytree": 1.0,
+  "reg_alpha": 0.16661849707368542,
+  "reg_lambda": 0.009934853849669325
+ },
+ "r2": 0.23398293196256637,
+ "n": 1761,
+ "vpd_mean": 18.5,
+ "sm_mean": 43.5,
+ "vpd_nor_cv": 27.3,
+ "sm_nor_cv": 10.7
+}
